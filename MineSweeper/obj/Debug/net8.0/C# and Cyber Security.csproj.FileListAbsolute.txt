@@ -1,0 +1,42 @@
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/obj/Debug/net8.0/C# and Cyber Security.csproj.AssemblyReference.cache
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/obj/Debug/net8.0/C# and Cyber Security.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/obj/Debug/net8.0/C# and Cyber Security.AssemblyInfoInputs.cache
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/obj/Debug/net8.0/C# and Cyber Security.AssemblyInfo.cs
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/obj/Debug/net8.0/C# and Cyber Security.csproj.CoreCompileInputs.cache
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/bin/Debug/net8.0/C# and Cyber Security
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/bin/Debug/net8.0/C# and Cyber Security.deps.json
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/bin/Debug/net8.0/C# and Cyber Security.runtimeconfig.json
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/bin/Debug/net8.0/C# and Cyber Security.dll
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/bin/Debug/net8.0/C# and Cyber Security.pdb
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/bin/Debug/net8.0/WebDriver.dll
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/bin/Debug/net8.0/runtimes/linux/native/selenium-manager
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/bin/Debug/net8.0/runtimes/osx/native/selenium-manager
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/bin/Debug/net8.0/runtimes/win/native/selenium-manager.exe
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/obj/Debug/net8.0/C# and C.3CC77505.Up2Date
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/obj/Debug/net8.0/C# and Cyber Security.dll
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/obj/Debug/net8.0/refint/C# and Cyber Security.dll
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/obj/Debug/net8.0/C# and Cyber Security.pdb
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/obj/Debug/net8.0/C# and Cyber Security.genruntimeconfig.cache
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/obj/Debug/net8.0/ref/C# and Cyber Security.dll
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/bin/Debug/net8.0/SeleniumExtras.WaitHelpers.dll
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/bin/Debug/net8.0/C# and Cyber Security
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/bin/Debug/net8.0/C# and Cyber Security.deps.json
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/bin/Debug/net8.0/C# and Cyber Security.runtimeconfig.json
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/bin/Debug/net8.0/C# and Cyber Security.dll
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/bin/Debug/net8.0/C# and Cyber Security.pdb
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/bin/Debug/net8.0/SeleniumExtras.WaitHelpers.dll
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/bin/Debug/net8.0/WebDriver.dll
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/bin/Debug/net8.0/runtimes/linux/native/selenium-manager
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/bin/Debug/net8.0/runtimes/osx/native/selenium-manager
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/bin/Debug/net8.0/runtimes/win/native/selenium-manager.exe
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/obj/Debug/net8.0/C# and Cyber Security.csproj.AssemblyReference.cache
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/obj/Debug/net8.0/C# and Cyber Security.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/obj/Debug/net8.0/C# and Cyber Security.AssemblyInfoInputs.cache
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/obj/Debug/net8.0/C# and Cyber Security.AssemblyInfo.cs
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/obj/Debug/net8.0/C# and Cyber Security.csproj.CoreCompileInputs.cache
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/obj/Debug/net8.0/C# and C.3CC77505.Up2Date
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/obj/Debug/net8.0/C# and Cyber Security.dll
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/obj/Debug/net8.0/refint/C# and Cyber Security.dll
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/obj/Debug/net8.0/C# and Cyber Security.pdb
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/obj/Debug/net8.0/C# and Cyber Security.genruntimeconfig.cache
+/Users/dmitryashitkin/Documents/CODING PROJECTS/C# and Cyber Security/MineSweeper/obj/Debug/net8.0/ref/C# and Cyber Security.dll
